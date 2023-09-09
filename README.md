@@ -1,10 +1,10 @@
 # SearchCLI
 
 # Main
-![p31](https://github.com/Rishi-Mohan/SearchCLI/assets/53253985/9f34490a-f4ab-4d53-86fd-f0df6caa6c0e)
+![p31](https://github.com/Rishi-Mohan/SearchCLI/assets/53253985/d47eca7d-c716-43c3-9d6d-6123dda76357)
 
 # Query
-![p32](https://github.com/Rishi-Mohan/SearchCLI/assets/53253985/2631da28-5bc5-4e78-ad97-d809bca2044a)
+![p32](https://github.com/Rishi-Mohan/SearchCLI/assets/53253985/ba9697b2-b7c4-4a96-9237-df1245ea4979)
 
 # Exit
-![p33](https://github.com/Rishi-Mohan/SearchCLI/assets/53253985/1973a487-4d96-46c4-9c93-78b5ccd27f9d)
+![p33](https://github.com/Rishi-Mohan/SearchCLI/assets/53253985/cf641b13-0adb-4140-b6a2-30d423032fed)
